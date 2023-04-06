@@ -30,6 +30,6 @@ To use the tool, run the following command:
 where input_file.csv is the path to your input CSV file.
 
 After running the command, the tool will display the columns in the dataset and prompt you to select a preprocessing task.
-Contributing
+## Contributing
 
-## Contributions are welcome. If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
+Contributions are welcome. If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
