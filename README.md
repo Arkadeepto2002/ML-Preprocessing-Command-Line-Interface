@@ -5,13 +5,13 @@ This project is a command-line tool that provides data preprocessing functionali
 
 The tool provides the following preprocessing functionalities:
     
-    <ul>
-    <li>Data Description: displays the description of a particular column, the description of all columns, or the entire dataset.</li>
-    <li>Handling Null Values: allows the user to remove a column or fill null values with mean, median, or mode.</li>
-    <li>Encoding Categorical Data: allows the user to perform one hot encoding of a column or display the categorical columns.</li>
-    <li>Feature Scaling of the Dataset: allows the user to normalize or standardize the dataset.</li>
-    <li>Download the Modified Dataset: allows the user to download the modified dataset.</li>
-    </ul>
+   <ul>
+   <li>Data Description: displays the description of a particular column, the description of all columns, or the entire dataset.</li>
+   <li>Handling Null Values: allows the user to remove a column or fill null values with mean, median, or mode.</li>
+   <li>Encoding Categorical Data: allows the user to perform one hot encoding of a column or display the categorical columns.</li>
+   <li>Feature Scaling of the Dataset: allows the user to normalize or standardize the dataset.</li>
+   <li>Download the Modified Dataset: allows the user to download the modified dataset.</li>
+   </ul>
 
 ## Installation
 
