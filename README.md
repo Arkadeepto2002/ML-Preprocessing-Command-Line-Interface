@@ -20,9 +20,9 @@ To use this tool, follow these steps:
     <li>Clone this repository to your local machine.</li>
     <li>Create a virtual environment and activate it.
         <ul>
-            <li>Create a conda environment from .yml file `conda env create -f environment.yml`<br>`conda activate env`</li>
+            <li>Create a conda environment from .yml file <br> `conda env create -f environment.yml`<br>`conda activate env`</li>
             or
-            <li>Create a pip virtual environment `python3 -m venv env
+            <li>Create a pip virtual environment <br> `python3 -m venv env<br>
             source env/bin/activate`
             </li>
         </ul>
