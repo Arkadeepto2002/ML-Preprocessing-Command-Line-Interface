@@ -18,8 +18,16 @@ The tool provides the following preprocessing functionalities:
 To use this tool, follow these steps:
     <ol>
     <li>Clone this repository to your local machine.</li>
-    <li>Create a virtual environment and activate it.</li>
-    <li>Install the required packages using the command pip install -r requirements.txt.</li>
+    <li>Create a virtual environment and activate it.
+        <ul>
+            <li>Create a conda environment from .yml file `conda env create -f environment.yml`<br>`conda activate env`</li>
+            or
+            <li>Create a pip virtual environment `python3 -m venv env
+            source env/bin/activate`
+            </li>
+        </ul>
+    </li>
+    <li>If you are using pip virtual enviroment install the required packages using the command pip install -r requirements.txt.</li>
     </ol>
 ## Usage
 
