@@ -1,4 +1,4 @@
-name: cli_env
+name: <name>
 channels:
   - defaults
 dependencies:
@@ -113,4 +113,4 @@ dependencies:
   - xz=5.2.10=h5eee18b_1
   - zlib=1.2.13=h5eee18b_0
   - zstd=1.5.4=hc292b87_0
-prefix: /home/arkadeepto/miniconda3/envs/cli_env
+prefix: /home/<username>/miniconda3/envs/<name>
